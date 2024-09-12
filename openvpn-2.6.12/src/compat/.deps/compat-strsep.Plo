@@ -1,0 +1,2 @@
+compat-strsep.lo: compat-strsep.c ../../config.h
+../../config.h:

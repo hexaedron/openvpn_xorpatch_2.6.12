@@ -1,0 +1,2 @@
+dco_linux.o: dco_linux.c ../../config.h
+../../config.h:

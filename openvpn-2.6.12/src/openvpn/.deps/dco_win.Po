@@ -1,0 +1,2 @@
+dco_win.o: dco_win.c ../../config.h
+../../config.h:

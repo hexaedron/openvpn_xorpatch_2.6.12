@@ -1,0 +1,2 @@
+pamdl.lo: pamdl.c ../../../config.h
+../../../config.h:

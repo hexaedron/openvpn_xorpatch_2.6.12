@@ -1,0 +1,2 @@
+networking_sitnl.o: networking_sitnl.c ../../config.h
+../../config.h:
