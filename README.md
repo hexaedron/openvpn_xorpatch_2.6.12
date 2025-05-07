@@ -1,7 +1,7 @@
 # openvpn_xorpatch_2.6.12
 XOR patch for OpenVPN 2.6.12. Based on https://github.com/clayface/openvpn_xorpatch
 
-Works for me in OPNsense 24.7.3_1 (FreeBSD 14.1)
+Works for me in OPNsense 24 and 25 (FreeBSD 14.1 and 14.2)
 
 ## How to build for FreeBSD/OPNSense/pfSense
 ```bash
